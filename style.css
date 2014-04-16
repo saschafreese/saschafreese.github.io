@@ -1,2 +1,54 @@
+@import url(http://fonts.googleapis.com/css?family=Raleway:100);
+
+
+html {
+	height: 100%;
+}
+
 body {
+	margin: 0;
+	padding: 0;
+	background: #136;
+	color: #fff;
+	font-family: 'Raleway', sans-serif;
+	font-weight: 100;
+	letter-spacing: 1px;
+}
+
+a {
+	text-decoration: none;
+}
+
+#canvas {
+	text-align: center;
+}
+
+#title {
+	width: 800px;
+	margin: 40px auto 40px;
+}
+#title .big {
+	margin: 0 0 20px;
+	font-size: 72px;
+}
+#title .small {
+	font-size: 21px;
+}
+
+#menu {
+	xwidth: 480px;
+	margin: 0 auto 50px;
+}
+#menu a {
+	width: 235px;
+	display: inline-block;
+	height: 30px;
+	line-height: 30px;
+	background: #000;
+	color: #fff;
+	border-radius: 3px;
+}
+
+#contact {
+	line-height: 150%;
 }

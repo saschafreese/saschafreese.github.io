@@ -1,0 +1,31 @@
+<!doctype html>
+<html>
+
+  <head>
+    <meta charset="utf-8">
+    <title>Sascha Freese</title>
+    <link rel="stylesheet" href="style.css">
+  </head>
+
+  <body>
+	  
+      <div id="canvas">
+		  
+		  <div id="title">
+			  <div class="big">Sascha Freese</div>
+			  <div class="small">Web. Conception. Composition. Development.</div>
+		  </div>
+		  
+		  <div id="menu">
+			  <a href="work">Work</a>
+			  <a href="contact">Contact</a>
+		  </div>
+		  
+		  <img src="img/pie.png">
+		  
+      </div>
+
+    
+  </body>
+  
+</html>
